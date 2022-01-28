@@ -1,0 +1,9 @@
+Each text file consists of of two things:
+1: Number of alive cells in that configuration
+2: Coordinates of alive cells
+
+The first line in the text file is the number of alive cells and all the following lines are the board coordinates. Board coordinates are for a 30x30 board.
+
+To test your code, initialize the board with the configuration given in the file and compare your output pattern in each iteration(generation) with the expected one.
+
+There are 4 simple test configurations with 6 or less live cells and one complex test configuration with 52 live cells.
